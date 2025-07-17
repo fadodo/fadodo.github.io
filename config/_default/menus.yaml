@@ -6,22 +6,22 @@
 main:
   - name: Home
     url: /
-    weight: 10
-  - name: Publications
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Skills
-    url: experience/
-    weight: 20
+    weight: 10 
   - name: Projects
     url: projects/
-    weight: 30
-  - name: Teaching
+    weight: 11 
+  - name: Skills
+    url: experience/
+    weight: 12
+  - name: Publications
+    url: /#papers
+    weight: 13
+  - name: Outreach
+    url: /#talks
+    weight: 14
+  - name: News
+    url: /#news
+    weight: 15
+  - name: CV
     url: teaching/
     weight: 40
