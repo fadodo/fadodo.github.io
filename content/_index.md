@@ -74,7 +74,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: showcase
+      view: card
   - block: features
     content:
       title: Skills
@@ -127,7 +127,7 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: compact
+      view: citation
       columns: 2
   - block: collection
     id: talks
@@ -168,24 +168,4 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle: ''
-      text: ''
-      # Contact details - edit or remove options as needed
-      email: fidel999@yahoo.fr
-      appointment_url: 'https://calendly.com'
-      address:
-        #street: 450 Serra Mall
-        city: Toulouse
-        #region: Occitanie
-        #postcode: '31400'
-        country: France
-        country_code: FR
-      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
 ---
