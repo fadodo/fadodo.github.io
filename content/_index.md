@@ -9,6 +9,22 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: hero
+    content:
+      title: Flood Rapid Mapping Tools
+      image:
+        # Reference an image in your `assets/media/` folder
+        filename: hurricane.png     
+      # Add your Hero text here
+      text: |-
+        ** Welcome to my Universe, full of experience, innovation and madness!!!**     
+    design:
+      # Choose an optional background color, gradient, image, or video
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        text_color_light: true
+  
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -30,49 +46,123 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  
+  - block: portfolio
+    id: projects
     content:
-      title: 'My projects'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      title: Projects
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      filters:
+        # Folders to display content from
+        folders:
+          - project
+        # Only show content with these tags
+        tags: []
+        # Exclude content with these tags
+        exclude_tags: []
+        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+        kinds:
+          - page
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+      # Default portfolio filter button
+      # 0 corresponds to the first button below and so on
+      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
+      default_button_index: 0
+      # Filter button toolbar (optional).
+      # Add or remove as many buttons as you like.
+      # To show all content, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the button toolbar, delete the entire `buttons` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Deep Learning
+          tag: Deep Learning
+        - name: Other
+          tag: Demo
     design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+      # Choose a listing view
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+    
+  - block: features
+    content:
+      title: Skills
+      subtitle: Section subtitle
+      text: Section text
+      items:
+        - name: Python programming
+          description: ''
+          #percent: 80
+          icon: code-bracket
+        - name: Earth Observation
+          description: ''
+          #percent: 80
+          icon: globe-alt
+        - name: Time-series analysis
+          description: ''
+          #percent: 80
+          icon: chart-bar 
+        - name: Data Analytics
+          description: ''
+          #percent: 100
+          icon: document-chart-bar
+        - name: SQL
+          description: ''
+          #percent: 40
+          icon: circle-stack
+        - name: Machine Learning
+          description: ''
+          #percent: 80
+          icon: cpu-chip
+        - name: R
+          #description: 90%
+          icon: r-project
+          icon_pack: fab
+    
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Main Publications
       filters:
         folders:
           - publication
-        featured_only: true
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Outreach
       filters:
         folders:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 2
+    
   - block: collection
     id: news
     content:
@@ -102,24 +192,4 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: 👉 Build your own academic website like this
-      text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-        
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
 ---
