@@ -22,6 +22,3 @@ main:
   - name: News
     url: /#news
     weight: 15
-  - name: CV
-    url: teaching/
-    weight: 40
