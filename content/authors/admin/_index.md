@@ -41,8 +41,6 @@ profiles:
     url: https://scholar.google.com/citations?user=M6Za82sAAAAJ&hl=fr 
   - icon: academicons/coursera
     url: https://troopl.com/fadodo
-  - icon: academicons/CV
-    url: https://orcid.org/
 
 interests:
   - 🐍 Python programming
