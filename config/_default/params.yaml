@@ -7,8 +7,6 @@
 appearance:
   mode: system
   color: blue
-  font: classic
-  font_size: l
 
 # SEO
 marketing:
