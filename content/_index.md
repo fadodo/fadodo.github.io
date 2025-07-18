@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "2rem"
 
 sections:
   - block: hero
@@ -14,7 +14,7 @@ sections:
       title: Use Earth observation data as a tool to inform decision-making
       image:
         # Reference an image in your `assets/media/` folder
-        filename: hurricane.jpg     
+        filename: hero-academic.png    
       # Add your Hero text here
       text: |-
         **Flood Rapid Mapping Tools!!!**     
@@ -23,6 +23,9 @@ sections:
       background:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
+        # The gradient angle from 0-360 degrees
+        gradient_angle: 180
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
         text_color_light: true
   - block: resume-biography-3
     content:
@@ -41,9 +44,13 @@ sections:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque
             brightness: 1.0
+          # Image fit. Options are `cover` (default), `contain`, or `actual` size
           size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
           parallax: false
   - block: collection
     id: projects
