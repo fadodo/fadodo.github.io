@@ -14,7 +14,7 @@ sections:
       title: Flood Rapid Mapping Tools
       image:
         # Reference an image in your `assets/media/` folder
-        filename: assets/media/flood.jpg
+        filename: choked_peoples.jpg
       # Add your Hero text here
       text: |-
         **Use Earth observation data as a tool to inform decision-making...**     
@@ -41,8 +41,8 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          # Add your image background to `assets/media/`.stacked-peaks.svg
+          filename: hurricane.jpg
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque
             brightness: 1.0
