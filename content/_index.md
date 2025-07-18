@@ -13,7 +13,7 @@ sections:
     content:
       slides:
         - title: Flood Rapid Mapping Tools
-          content: **Use Earth observation data as a tool to inform decision-making...**
+          content: Use Earth observation data as a tool to inform decision-making...
           align: center
           background:
             image:
