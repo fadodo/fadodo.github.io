@@ -37,37 +37,12 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
-      background:
-        color: white
-        image:
-          # Add your image background to `assets/media/`.stacked-peaks.svg
-          filename: hurricane.jpg
-          filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque
-            brightness: 1.0
-          # Image fit. Options are `cover` (default), `contain`, or `actual` size
-          size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
-          position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: false
-  - block: resume-biography-3
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-    design:
-      css_class: dark
+      css_class: light
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          # Add your image background to `assets/media/`.stacked-peaks.svg
+          filename: hurricane.jpg
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque
             brightness: 1.0
