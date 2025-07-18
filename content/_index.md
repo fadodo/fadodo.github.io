@@ -11,13 +11,13 @@ design:
 sections:
   - block: hero
     content:
-      title: Flood Rapid Mapping Tools
+      title: Use Earth observation data as a tool to inform decision-making
       image:
         # Reference an image in your `assets/media/` folder
         filename: hurricane.jpg     
       # Add your Hero text here
       text: |-
-        ** Use Earth observation data as a tool to inform decision-making!!!**     
+        **Flood Rapid Mapping Tools!!!**     
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -105,10 +105,6 @@ sections:
           description: ''
           #percent: 80
           icon: cpu-chip
-        - name: R
-          #description: 90%
-          icon: r-project
-          icon_pack: fab
   - block: collection
     id: papers
     content:
@@ -172,4 +168,24 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle: ''
+      text: ''
+      # Contact details - edit or remove options as needed
+      email: fidel999@yahoo.fr
+      appointment_url: 'https://calendly.com'
+      address:
+        #street: 450 Serra Mall
+        city: Toulouse
+        #region: Occitanie
+        #postcode: '31400'
+        country: France
+        country_code: FR
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
