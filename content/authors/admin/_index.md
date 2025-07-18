@@ -201,12 +201,12 @@ skills:
         icon: beaker
 
 languages:
-  - name: English
-    #percent: 100
   - name: French
-    #percent: 75
+    percent: 100
+  - name: English
+    percent: 100
   - name: Ewe
-    #percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
