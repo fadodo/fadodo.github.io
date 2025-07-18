@@ -56,14 +56,14 @@ education:
     date_start: 2025-01-20
     date_end: 2025-04-30
     summary: |
-     • 9-week full-time intensive coding BootCamp
-     • Learned about business KPIs and data collection (churn, funnel, CAC, AB test)
-     • Worked with data extraction using APIs and data visualization
-     • Used Google Sheets, advanced SQL, Power BI, Google Data Studio
-     • Data Analytics with SQL, BigQuery, Pandas, NumPy, and Matplotlib
-     • Statistics with SciPy, Seaborn and Statsmodels
-     • Machine Learning with Scikit-learn
-     • Worked on a project in a team of 3. Delivered in 2 weeks based on the analysis of book reviewer's reviews rating behaviour
+     - 9-week full-time intensive coding BootCamp
+     - Learned about business KPIs and data collection (churn, funnel, CAC, AB test)
+     - Worked with data extraction using APIs and data visualization
+     - Used Google Sheets, advanced SQL, Power BI, Google Data Studio
+     - Data Analytics with SQL, BigQuery, Pandas, NumPy, and Matplotlib
+     - Statistics with SciPy, Seaborn and Statsmodels
+     - Machine Learning with Scikit-learn
+     - Worked on a project in a team of 3. Delivered in 2 weeks based on the analysis of book reviewer's reviews rating behaviour
 
   - area: PhD Remote Sensing / cryosphere
     institution: Paul Sabatier University
@@ -103,8 +103,8 @@ work:
     date_start: 2024-02-12
     date_end: 2024-06-30
     summary: |
-      • Successfully led a team in developing a winning and compelling proposal for a highly competitive ESA tender on developing a hydrological digital twin
-      • Demonstrated strong project management skills by coordinating and overseeing all aspects of the tender process
+      - Successfully led a team in developing a winning and compelling proposal for a highly competitive ESA tender on developing a hydrological digital twin
+      - Demonstrated strong project management skills by coordinating and overseeing all aspects of the tender process
   - position: Market Development and Outreach Officer
     company_name: Mercator ocean international
     company_url: ''
@@ -112,8 +112,8 @@ work:
     date_start: 2022-01-02
     date_end: 2023-06-30
     summary: |
-      • Developed case studies showcasing the application of ocean observation data in the blue economy, increasing stakeholder engagement
-      • Facilitated an international Geo Blue Planet symposium and working group, promoting the use of ocean data for sustainable development
+      - Developed case studies showcasing the application of ocean observation data in the blue economy, increasing stakeholder engagement
+      - Facilitated an international Geo Blue Planet symposium and working group, promoting the use of ocean data for sustainable development
   - position: Scientific Editor
     company_name: F-iniciativas
     company_url: ''
@@ -121,8 +121,8 @@ work:
     date_start: 2019-02-09
     date_end: 2021-12-31
     summary: |
-      • Evaluated the scientific merit and innovation potential of R&D projects, contributing to the approval of funding
-      • Produced technical reports and conducted bibliographic research, ensuring compliance with strict quality standards
+      - Evaluated the scientific merit and innovation potential of R&D projects, contributing to the approval of funding
+      - Produced technical reports and conducted bibliographic research, ensuring compliance with strict quality standards
   - position: Researcher engineer in cryosphere and Remote Sensing
     company_name: Laboratoire d'Études en Géophysique et Océanographie Spatiales (LEGOS)
     company_url: ''
@@ -130,8 +130,8 @@ work:
     date_start: 2015-10-01
     date_end: 2018-10-30
     summary: |
-     • Conducted research on the physics of altimeter and radiometer sensors over the Antarctic ice sheet, contributing to improved climate models
-     • Developed a machine learning algorithm to classify and invert snow surface properties from satellite imagery, improving accuracy by 15% 
+     - Conducted research on the physics of altimeter and radiometer sensors over the Antarctic ice sheet, contributing to improved climate models
+     - Developed a machine learning algorithm to classify and invert snow surface properties from satellite imagery, improving accuracy by 15% 
   - position: Information Technology and Management Officer
     company_name: Mediterranean Shipping Company (MSC)
     company_url: ''
