@@ -22,11 +22,11 @@ sections:
               filename: shocked_peoples.jpg
               filters:
                 brightness: 0.7
-            position: right
-            color: '#666'
+            position: center
+            color: black
         - title: ""
           content: ""
-          align: left
+          align: center
           background:
             image:
               # Specify an image from `assets/media/`
@@ -35,10 +35,10 @@ sections:
               filters:
                 brightness: 0.7
             position: center
-            color: '#555'
+            color: black
         - title: ""
           content: ""
-          align: right
+          align: center
           background:
             image:
               # Specify an image from `assets/media/`
@@ -47,10 +47,10 @@ sections:
               filters:
                 brightness: 0.5
             position: center
-            color: '#333'
+            color: black
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: 400px
+      slide_height: '400px'
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
