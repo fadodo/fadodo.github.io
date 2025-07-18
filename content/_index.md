@@ -9,54 +9,49 @@ design:
   spacing: "2rem"
 
 sections:
-  - block: slider
+  - block: hero
     content:
-      slides:
-        - title: Flood Rapid Mapping Tools
-          content: Use Earth observation data as a tool to inform decision-making...
-          align: center
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: shocked_peoples.jpg
-              filters:
-                brightness: 0.7
-            position: center
-            color: black
-        - title: ""
-          content: ""
-          align: center
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: flood.jpg
-              filters:
-                brightness: 0.7
-            position: center
-            color: black
-        - title: ""
-          content: ""
-          align: center
-          background:
-            image:
-              # Specify an image from `assets/media/`
-              # or delete the image section to remove it
-              filename: hurricane.jpg
-              filters:
-                brightness: 0.5
-            position: center
-            color: black
+      title: Flood Rapid Mapping Tools
+      image:
+        # Reference an image in your `assets/media/` folder choked_peoples.jpg
+        filename: stacked-peaks.svg 
+      # Add your Hero text here
+      text: |-
+        **Use Earth observation data as a tool to inform decision-making...**     
     design:
-      # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: 
-      # Make the slides full screen within the browser window?
-      is_fullscreen: true
-      # Automatically transition through slides?
-      loop: true
-      # Duration of transition between slides (in ms)
-      interval: 2000
+      # Choose an optional background color, gradient, image, or video
+      background:
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
+        # The gradient angle from 0-360 degrees
+        gradient_angle: 180
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
+  - block: resume-biography-3
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+    design:
+      css_class: dark
+      background:
+        color: white
+        image:
+          # Add your image background to `assets/media/`.stacked-peaks.svg
+          filename: hurricane.jpg
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque
+            brightness: 1.0
+          # Image fit. Options are `cover` (default), `contain`, or `actual` size
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: false
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
