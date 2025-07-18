@@ -78,8 +78,8 @@ sections:
   - block: features
     content:
       title: Skills
-      subtitle: Section subtitle
-      text: Section text
+      subtitle: ''
+      text: ''
       items:
         - name: Python programming
           description: ''
