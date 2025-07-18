@@ -66,15 +66,13 @@ education:
      • Statistics with SciPy, Seaborn and Statsmodels
      • Machine Learning with Scikit-learn
      • Worked on a project in a team of 3. Delivered in 2 weeks based on the analysis of book reviewer's reviews rating behaviour
-    button:
-      text: ''
-      url: ''
+
   - area: PhD Remote Sensing / cryosphere
     institution: Paul Sabatier University
     date_start: 2015-10-01
     date_end: 2018-09-30
     summary: |
-      TThesis on "Altimetry and Radiometry in Antarctica". Supervised by Dr. Frederique REMY and Dr. Ghislain PICARD.
+      Thesis on "Altimetry and Radiometry in Antarctica". Supervised by Dr. Frederique REMY and Dr. Ghislain PICARD.
     button:
       text: 'Read Thesis'
       url: 'https://theses.hal.science/tel-01899498v2'
@@ -152,7 +150,9 @@ skills:
       - name: Python programming
         description: ''
         #percent: 80
-        icon: code-bracket
+        #icon: code-bracket
+        icon: python
+        icon_pack: fab
       - name: Earth Observation
         description: ''
         #percent: 80
@@ -160,7 +160,9 @@ skills:
       - name: Time-series analysis
         description: ''
         #percent: 80
-        icon: chart-bar 
+        #icon: chart-bar
+        icon: chart-line
+        icon_pack: fas
       - name: Data Analytics
         description: ''
         #percent: 100
@@ -168,7 +170,9 @@ skills:
       - name: SQL
         description: ''
         #percent: 40
-        icon: circle-stack
+        #icon: circle-stack
+        icon: database
+        icon_pack: fas
       - name: Machine Learning
         description: ''
         #percent: 80
@@ -180,7 +184,9 @@ skills:
       - name: Hiking
         description: ''
         #percent: 60
-        icon: person-simple-walk
+        #icon: person-simple-walk
+        icon: person-hiking
+        icon_pack: fas
       - name: Boxing
         description: ''
         #percent: 100
