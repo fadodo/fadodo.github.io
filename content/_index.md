@@ -91,7 +91,7 @@ sections:
         - name: Python programming
           description: ''
           #percent: 80
-          icon: code-bracket
+          icon: python
         - name: Earth Observation
           description: ''
           #percent: 80
