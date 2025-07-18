@@ -14,7 +14,7 @@ sections:
       title: Use Earth observation data as a tool to inform decision-making
       image:
         # Reference an image in your `assets/media/` folder
-        filename: hero-academic.png    
+        filename: hurricane.jpg    
       # Add your Hero text here
       text: |-
         **Flood Rapid Mapping Tools!!!**     
