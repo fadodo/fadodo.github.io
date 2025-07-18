@@ -160,9 +160,7 @@ skills:
       - name: Time-series analysis
         description: ''
         #percent: 80
-        #icon: chart-bar
-        icon: chart-line
-        icon_pack: fas
+        icon: chart-bar
       - name: Data Analytics
         description: ''
         #percent: 100
@@ -170,9 +168,7 @@ skills:
       - name: SQL
         description: ''
         #percent: 40
-        #icon: circle-stack
-        icon: database
-        icon_pack: fas
+        icon: circle-stack
       - name: Machine Learning
         description: ''
         #percent: 80
@@ -184,9 +180,7 @@ skills:
       - name: Hiking
         description: ''
         #percent: 60
-        #icon: person-simple-walk
-        icon: person-hiking
-        icon_pack: fas
+        icon: person-simple-walk
       - name: Boxing
         description: ''
         #percent: 100
@@ -194,7 +188,7 @@ skills:
       - name: Reading
         description: ''
         #percent: 80
-        icon: open-book
+        icon: book-open
       - name: Outreach
         description: ''
         #percent: 80
