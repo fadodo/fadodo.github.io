@@ -72,7 +72,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename:stacked-peaks.svg
+          filename: stacked-peaks.svg
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque
             brightness: 1.0
