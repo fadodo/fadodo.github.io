@@ -142,7 +142,7 @@ sections:
       title: Recent & Upcoming Outreach
       filters:
         folders:
-          - event
+          - #event
     design:
       view: article-grid
       columns: 2
@@ -151,9 +151,9 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: ''
+      text: 'COMING SOON !!!'
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: #post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
