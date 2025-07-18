@@ -10,7 +10,7 @@ main:
   - name: Projects
     url: projects/
     weight: 11 
-  - name: Skills
+  - name: Experience
     url: experience/
     weight: 12
   - name: Publications
