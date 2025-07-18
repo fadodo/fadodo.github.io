@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: hero
@@ -14,10 +14,10 @@ sections:
       title: Flood Rapid Mapping Tools
       image:
         # Reference an image in your `assets/media/` folder
-        filename: hurricane.png     
+        filename: hurricane.jpg     
       # Add your Hero text here
       text: |-
-        ** Welcome to my Universe, full of experience, innovation and madness!!!**     
+        ** Use Earth observation data as a tool to inform decision-making!!!**     
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -74,7 +74,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: card
+      view: showcase
   - block: features
     content:
       title: Skills
@@ -131,7 +131,7 @@ sections:
       sort_by: 'Date'
       sort_ascending: false
     design:
-      view: article-grid
+      view: compact
       columns: 2
   - block: collection
     id: talks
