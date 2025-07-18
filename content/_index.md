@@ -13,8 +13,8 @@ sections:
     content:
       title: Flood Rapid Mapping Tools
       image:
-        # Reference an image in your `assets/media/` folder
-        filename: choked_peoples.jpg
+        # Reference an image in your `assets/media/` folder choked_peoples.jpg
+        filename: stacked-peaks.svg 
       # Add your Hero text here
       text: |-
         **Use Earth observation data as a tool to inform decision-making...**     
