@@ -24,7 +24,6 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -46,7 +45,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  
   - block: portfolio
     id: projects
     content:
@@ -91,7 +89,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-    
   - block: features
     content:
       title: Skills
@@ -126,7 +123,6 @@ sections:
           #description: 90%
           icon: r-project
           icon_pack: fab
-    
   - block: collection
     id: papers
     content:
@@ -151,7 +147,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-
   - block: collection
     id: talks
     content:
@@ -162,7 +157,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-    
   - block: collection
     id: news
     content:
