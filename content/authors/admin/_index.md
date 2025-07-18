@@ -217,7 +217,7 @@ awards:
 
 ## About Me
 
-Hi, I'm Fifi Adodo — an experienced Earth Observation Data Specialist and R&D Engineer with a strong track record in geospatial analysis, project management, and data-driven innovation.
+Hi, I'm Fifi — an experienced Earth Observation Data Specialist and R&D Engineer with a strong track record in geospatial analysis, project management, and data-driven innovation.
 
 Over the past six years, I’ve led and contributed to high-impact projects across environmental domains, including cryospheric research, ocean monitoring, and coastal risk assessment. From developing a digital twin hydrology proposal that secured €2M in ESA funding, to driving stakeholder engagement for the Copernicus Marine Service, my work consistently bridges scientific insight with practical value.
 
