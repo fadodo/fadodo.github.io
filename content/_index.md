@@ -11,13 +11,13 @@ design:
 sections:
   - block: hero
     content:
-      title: Use Earth observation data as a tool to inform decision-making
+      title: Flood Rapid Mapping Tools
       image:
         # Reference an image in your `assets/media/` folder
-        filename: hurricane.jpg    
+        filename: assets/media/flood.jpg
       # Add your Hero text here
       text: |-
-        **Flood Rapid Mapping Tools!!!**     
+        **Use Earth observation data as a tool to inform decision-making...**     
     design:
       # Choose an optional background color, gradient, image, or video
       background:
