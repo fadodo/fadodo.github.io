@@ -66,7 +66,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis/Presentation_MASTER2_ADODO_2.pdf'
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_source: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis/rapport_final_ADODO.pdf'
 url_video: ''
 
 # Featured image
@@ -81,15 +81,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
