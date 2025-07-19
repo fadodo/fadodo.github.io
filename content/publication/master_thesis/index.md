@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper" 
+title: 'variation tidale de la structuration sedimentaire de l'estuaire de la Cua Luc River, Vietnam' 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -13,7 +13,7 @@ doi: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['thesis']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
