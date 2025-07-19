@@ -1,5 +1,5 @@
 ---
-title: "Variation tidale de la structuration de l'estuaire de la Cua Luc River, Vietnam"
+title: "Variation tidale de la structuration sedimentaire de l'estuaire de la Cua Luc River, Vietnam"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -50,7 +50,7 @@ estuaires."
 summary: 
 
 tags:
-  - Cohesive sediment
+  - ['Cohesive sediments', 'floculation and aggregation', 'turbidity', 'turbulence', 'estuary','Vietnam']
 
 # Display this page in the Featured widget?
 featured: true
