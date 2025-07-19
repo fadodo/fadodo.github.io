@@ -41,7 +41,7 @@ estuaires".
 
 tags:
   - sédiments cohésifs,
-  - floculation /désagrégation,
+  - floculation ou désagrégation,
   - turbidité,
   - turbulence,
   - estuaire,
