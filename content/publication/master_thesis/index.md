@@ -40,12 +40,7 @@ estuaires".
 
 
 tags:
-  - sédiments cohésifs,
-  - floculation ou désagrégation,
-  - turbidité,
-  - turbulence,
-  - estuaire,
-  - baie d’Halong, Vietnam
+  - LLm
 
 # Display this page in the Featured widget?
 featured: true
