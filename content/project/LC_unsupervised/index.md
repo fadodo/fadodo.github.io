@@ -1,7 +1,7 @@
 ---
 title: Unsupervised sentinel-2 imagery Classification
 date: 2025-05-03
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://troopl.com/fadodo/unsupervised-sentinel2-imagery-classification
 tags:
   - Hugo
   - Wowchemy
