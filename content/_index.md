@@ -6,36 +6,31 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: hero
     content:
       title: Use Earth observation data as a tool to inform decision-making
-      # Add your Hero text here
       text: |-
         **Flood Rapid Mapping Tools** 
     design:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
       css_class: ""
-      # Choose an optional background color, gradient, image, or video
       background:
-        color: 
-        text_color_light: true
+        color: black
+        #text_color_light: true
         image:
           # Reference an image in your `assets/media/` stacked-peaks.svg folder choked_peoples.jpg
           filename: hurricane.jpg
           filters:
-            brightness:0.5
+            brightness: 1.0
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
