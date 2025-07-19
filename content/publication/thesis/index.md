@@ -3,7 +3,8 @@ title: "Altimeter and radiometer in Antartica"
 authors:
 - admin
 date: "2018-10-19T00:00:00Z"
-doi: "tel-01899498 , version 2"
+HAL_ID = "tel-01899498"
+HAL_VERSION = "v2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-06-04T00:00:00Z"
@@ -21,11 +22,11 @@ abstract: In the context of global climate changes, the Antarctic ice sheet cont
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+  - name: URL
+    url: https://theses.hal.science/tel-01899498
 url_pdf: https://theses.hal.science/tel-01899498v2/file/2018TOU3135b.pdf
 url_code: ''
 url_dataset: ''
@@ -54,7 +55,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
