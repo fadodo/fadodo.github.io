@@ -21,7 +21,7 @@ sections:
       css_class: ""
       background:
         color: black
-        #text_color_light: true
+        text_color_light: true
         image:
           # Reference an image in your `assets/media/` stacked-peaks.svg folder choked_peoples.jpg
           filename: hurricane.jpg
@@ -39,8 +39,8 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.stacked-peaks.svg
-          filename: Shocked_peoples.jpg
+          # Add your image background to `assets/media/`.Shocked_peoples.jpg
+          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
