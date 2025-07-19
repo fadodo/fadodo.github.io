@@ -6,27 +6,43 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "6rem"
 
 sections:
   - block: hero
     content:
-      title: Flood Rapid Mapping Tools
-      image:
-        # Reference an image in your `assets/media/` folder choked_peoples.jpg
-        filename: stacked-peaks.svg 
+      title: Use Earth observation data as a tool to inform decision-making
       # Add your Hero text here
       text: |-
-        **Use Earth observation data as a tool to inform decision-making...**     
+        **Flood Rapid Mapping Tools** 
     design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: ""
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        # The gradient angle from 0-360 degrees
-        gradient_angle: 180
-        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        color:""
         text_color_light: true
+        image:
+          # Reference an image in your `assets/media/` stacked-peaks.svg folder choked_peoples.jpg
+          filename:hurricane.jpg
+          filters:
+            brightness:0.5
+  - block: stats
+    content:
+      items:
+        - statistic: "2 stars"
+          description: |
+            GitHub stars  
+            since 2025
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-800"
+      # Reduce spacing
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -37,12 +53,12 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: black
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.stacked-peaks.svg
-          filename: hurricane.jpg
+          filename: shocked_peoples.jpg
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque
             brightness: 1.0
