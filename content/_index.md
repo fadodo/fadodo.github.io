@@ -23,7 +23,7 @@ sections:
       css_class: ""
       # Choose an optional background color, gradient, image, or video
       background:
-        color:""
+        color: black
         text_color_light: true
         image:
           # Reference an image in your `assets/media/` stacked-peaks.svg folder choked_peoples.jpg
