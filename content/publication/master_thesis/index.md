@@ -1,5 +1,5 @@
 ---
-title: "VARIATION TIDALE DE LA STRUCTURATION SEDIMENTAIRE DANS LESTUAIRE DE LA CUA LUC RIVER VIETNAM"
+title: "Variation tidale de la structuration sedimentaire dans l'estuaire de la Cua Luc river, Vietnam" 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
