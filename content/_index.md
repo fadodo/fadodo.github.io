@@ -40,7 +40,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.stacked-peaks.svg
-          filename: shocked_peoples.jpg
+          filename: Shocked_peoples.jpg
           filters:
             brightness: 1.0
           size: cover
