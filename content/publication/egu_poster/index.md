@@ -45,7 +45,7 @@ featured: true
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/egu_poster/poster_EGU_vf.pdf'
 url_project: ''
 url_slides: ''
 url_source: 'https://ui.adsabs.harvard.edu/abs/2016EGUGA..18.5966A/abstract'
