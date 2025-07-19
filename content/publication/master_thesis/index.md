@@ -1,5 +1,5 @@
 ---
-title: 'Variation tidale de la structuration de l'estuaire de la Cua Luc River, Vietnam'
+title: "Variation tidale de la structuration de l'estuaire de la Cua Luc River, Vietnam"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
