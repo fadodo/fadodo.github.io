@@ -1,7 +1,7 @@
 ---
 title: Supervised Landcover Classification of Sentinel2 imagery over Corse region
 date: 
-external_link: troopl.com/fadodo/supervised-landcover-classification-of-sentinel2-imagery-over-corse-region
+external_link: https://troopl.com/fadodo/supervised-landcover-classification-of-sentinel2-imagery-over-corse-region
 tags: 
   - Hugo
   - Wowchemy
