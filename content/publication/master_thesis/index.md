@@ -18,7 +18,7 @@ publication_types: ['thesis']
 publication: ''
 publication_short: ''
 
-abstract: Les sédiments en suspension jouent un rôle majeur dans les écosystèmes côtiers,
+abstract: "Les sédiments en suspension jouent un rôle majeur dans les écosystèmes côtiers,
 principalement de deux façons : en limitant la pénétration de la lumière dans la colonne d'eau
 et en absorbant les polluants chimiques. Pour ces raisons, l’étude des particules minérales de
 la zone côtière revêt d'une importance capitale. Cette étude contribue à la connaissance du
@@ -36,7 +36,7 @@ des flocs sont contrôlées par la turbulence et plus par les processus de remis
 et de décantation différentielles pendant la saison sèche. Ces résultats montrent une
 similitude du fonctionnement hydro-sédimentaire avec l’estuaire de Bach-Dang Cam, situé
 au nord-ouest du golfe de Tonkin (Vietnam), malgré les différentes caractéristiques des deux
-estuaires. 
+estuaires". 
 
 
 tags:
