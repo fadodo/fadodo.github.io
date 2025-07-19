@@ -60,8 +60,8 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis/Presentation_MASTER2_ADODO_2.pdf'
-url_source: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis/rapport_final_ADODO.pdf'
+url_slides: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis'
+url_source: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis'
 url_video: ''
 
 # Featured image
