@@ -67,7 +67,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: F.ADODO)'
+  caption: 'Image credit: F.ADODO'
   focal_point: ''
   preview_only: false
 
@@ -84,7 +84,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+# slides: ""
 ---
 
 {{% callout note %}}
