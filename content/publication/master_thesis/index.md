@@ -65,7 +65,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_slides: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis/Presentation_MASTER2_ADODO_2.pdf'
 url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_video: ''
 
