@@ -23,26 +23,13 @@ sections:
       css_class: ""
       # Choose an optional background color, gradient, image, or video
       background:
-        color: black
+        color: 
         text_color_light: true
         image:
           # Reference an image in your `assets/media/` stacked-peaks.svg folder choked_peoples.jpg
           filename: hurricane.jpg
           filters:
             brightness:0.5
-  - block: stats
-    content:
-      items:
-        - statistic: "2 stars"
-          description: |
-            GitHub stars  
-            since 2025
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-800"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -60,13 +47,9 @@ sections:
           # Add your image background to `assets/media/`.stacked-peaks.svg
           filename: shocked_peoples.jpg
           filters:
-            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque
             brightness: 1.0
-          # Image fit. Options are `cover` (default), `contain`, or `actual` size
           size: cover
-          # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
-          # Use a fun parallax-like fixed background effect on desktop? true/false
           parallax: false
   - block: collection
     id: projects
