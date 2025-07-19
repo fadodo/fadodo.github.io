@@ -27,7 +27,7 @@ sections:
         text_color_light: true
         image:
           # Reference an image in your `assets/media/` stacked-peaks.svg folder choked_peoples.jpg
-          filename:hurricane.jpg
+          filename: hurricane.jpg
           filters:
             brightness:0.5
   - block: stats
