@@ -3,8 +3,7 @@ title: "Altimeter and radiometer in Antartica"
 authors:
 - admin
 date: "2018-10-19T00:00:00Z"
-HAL_ID = "tel-01899498"
-HAL_VERSION = "v2"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-06-04T00:00:00Z"
