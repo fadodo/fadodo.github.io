@@ -60,8 +60,8 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis'
-url_source: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis'
+url_slides: ''
+url_source: ''
 url_video: ''
 
 # Featured image
