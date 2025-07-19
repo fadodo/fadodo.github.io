@@ -1,5 +1,5 @@
 ---
-title: 'Variation tidale de la structuration de l estuaire de la Cua Luc River, Vietnam'
+title: 'Variation tidale de la structuration de l'estuaire de la Cua Luc River, Vietnam'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,7 +27,7 @@ publication:
 publication_short: 
 
 abstract: "Les sédiments en suspension jouent un rôle majeur dans les écosystèmes côtiers,
-principalement de deux façons  en limitant la pénétration de la lumière dans la colonne d'eau
+principalement de deux façons : en limitant la pénétration de la lumière dans la colonne d'eau
 et en absorbant les polluants chimiques. Pour ces raisons, l’étude des particules minérales de
 la zone côtière revêt d'une importance capitale. Cette étude contribue à la connaissance du
 fonctionnement hydro-sédimentaire de l’estuaire de la Cua Luc, Vietnam, qui se jette dans la
