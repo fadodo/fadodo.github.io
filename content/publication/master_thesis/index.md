@@ -12,7 +12,7 @@ doi: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['thesis']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
@@ -61,7 +61,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis/Presentation_MASTER2_ADODO_2.pdf'
-url_source: 'https://github.com/fadodo/fadodo.github.io/content/publication/master_thesis/rapport_final_ADODO.pdf'
+url_source: 'https://github.com/fadodo/fadodo.github.io/blob/main/content/publication/master_thesis/rapport_final_ADODO.pdf'
 url_video: ''
 
 # Featured image
