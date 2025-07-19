@@ -1,6 +1,6 @@
 ---
 title: Supervised Landcover Classification of Sentinel2 imagery over Corse region
-date: 2023-10-26
+date: 
 external_link: troopl.com/fadodo/supervised-landcover-classification-of-sentinel2-imagery-over-corse-region
 tags: 
   - Hugo
