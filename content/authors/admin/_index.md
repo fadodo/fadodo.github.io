@@ -89,7 +89,7 @@ education:
 work:
   - position: Coastal Flooding Events Database
     company_name: Startup Research Project
-    company_url: ''
+    company_url: 'https://fadodo.github.io'
     company_logo: ''
     date_start: 2024-07-01
     date_end: ''
@@ -98,7 +98,7 @@ work:
       -Built a comprehensive database of marine submersion (coastal flooding) events based on extreme total water level hindcasts.
   - position: Research Engineer
     company_name: Hydro matters
-    company_url: ''
+    company_url: 'https://www.hydro-matters.fr/'
     company_logo: ''
     date_start: 2024-02-12
     date_end: 2024-06-30
@@ -107,7 +107,7 @@ work:
       - Demonstrated strong project management skills by coordinating and overseeing all aspects of the tender process
   - position: Market Development and Outreach Officer
     company_name: Mercator ocean international
-    company_url: ''
+    company_url: 'https://www.mercator-ocean.eu/'
     company_logo: ''
     date_start: 2022-01-02
     date_end: 2023-06-30
@@ -116,7 +116,7 @@ work:
       - Facilitated an international Geo Blue Planet symposium and working group, promoting the use of ocean data for sustainable development
   - position: Scientific Editor
     company_name: F-iniciativas
-    company_url: ''
+    company_url: 'https://www.f-initiatives.com/'
     company_logo: ''
     date_start: 2019-02-09
     date_end: 2021-12-31
@@ -125,7 +125,7 @@ work:
       - Produced technical reports and conducted bibliographic research, ensuring compliance with strict quality standards
   - position: Researcher engineer in cryosphere and Remote Sensing
     company_name: Laboratoire d'Études en Géophysique et Océanographie Spatiales (LEGOS)
-    company_url: ''
+    company_url: 'https://www.legos.omp.eu/en/'
     company_logo: ''
     date_start: 2015-10-01
     date_end: 2018-10-30
@@ -134,7 +134,7 @@ work:
      - Developed a machine learning algorithm to classify and invert snow surface properties from satellite imagery, improving accuracy by 15% 
   - position: Information Technology and Management Officer
     company_name: Mediterranean Shipping Company (MSC)
-    company_url: ''
+    company_url: 'https://www.msc.com/fr/local-information/africa/togo'
     company_logo: ''
     date_start: 2009-01-01
     date_end: 2013-09-01
@@ -194,11 +194,11 @@ skills:
 
 languages:
   - name: French
-    percent: 100
+    #percent: 100
   - name: English
-    percent: 100
+    #percent: 100
   - name: Ewe
-    percent: 100
+    #percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -215,7 +215,7 @@ languages:
   
 ---
 
-## About Me
+# About Me
 
 Hi, I'm Fifi — an experienced Earth Observation Data Specialist and R&D Engineer with a strong track record in geospatial analysis, project management, and data-driven innovation.
 
