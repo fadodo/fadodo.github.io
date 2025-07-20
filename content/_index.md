@@ -59,8 +59,8 @@ sections:
         # Folders to display content from
         folders:
           - project
-        author: admin
-        category: ""
+        author: ''
+        category: ''
         tag: ""
         publication_type: ""
         featured_only: false
