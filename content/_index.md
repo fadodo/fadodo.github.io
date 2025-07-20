@@ -50,7 +50,7 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: My subtitle
+      subtitle: ''
       text: 'Check out my projects below!'
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
@@ -59,7 +59,7 @@ sections:
         # Folders to display content from
         folders:
           - project
-        author: ""
+        author: admin
         category: ""
         tag: ""
         publication_type: ""
