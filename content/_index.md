@@ -59,7 +59,7 @@ sections:
         # Folders to display content from
         folders:
           - project
-        author: fadodo
+        author: 'fadodo'
         category: ''
         tag: ""
         publication_type: ""
@@ -133,7 +133,8 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Outreach
+      title: Outreach & Talks
+      text: 'COMING SOON ....'
       filters:
         folders:
           - event
@@ -143,9 +144,9 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: News
       subtitle: ''
-      text: 'COMING SOON !!!'
+      text: 'COMING SOON ....'
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
