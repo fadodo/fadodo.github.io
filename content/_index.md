@@ -59,7 +59,7 @@ sections:
         # Folders to display content from
         folders:
           - project
-        author: ''
+        author: fadodo
         category: ''
         tag: ""
         publication_type: ""
