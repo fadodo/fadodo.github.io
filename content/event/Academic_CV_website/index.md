@@ -1,7 +1,7 @@
 ---
 title: Build Your Academic Website with Hugo Blox on GitHub Pages
 summary: A step-by-step guide to creating your own personal academic website without having to write any code using GitHub Pages and the Hugo framework.
-date: 2025-07-21
+date: 2025-07-19
 type: docs
 math: false
 tags:
