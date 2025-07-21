@@ -1,7 +1,7 @@
 ---
 title: Flood_mapper Quick Start Guide
 summary: This guide will walk you through setting up and using the flood_mapper package to perform rapid flood mapping using Google Earth Engine (GEE)
-date: 2025-07-21
+date: 2025-07-20
 type: docs
 math: false
 tags:
@@ -10,7 +10,7 @@ image:
   caption: ''
   filename: ''
 ---
-
+[![flood_mapping](cover_image)](https://github.com/fadodo/flood_mapper)
 # Introduction
 
 This guide will walk you through setting up and using the flood_mapper package to perform rapid flood mapping using Google Earth Engine (GEE)
@@ -233,7 +233,7 @@ Remember that the accuracy of the flooded area calculation can be influenced by 
 
 ![flood_area_SAR](flood_area_SAR.png) 
 
-- Flood extend from SAR 
+- Flood extend from Sentinel-2 
 
   **Note** : Despite the filtering of 30% cloud coverage, it should be noted that Sentinel-2 optical imagery is dominated by clouds.
 
