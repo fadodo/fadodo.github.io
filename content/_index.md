@@ -39,8 +39,8 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.Shocked_peoples.jpg
-          filename: stacked-peaks.svg
+          # Add your image background to `assets/media/`.Shocked_peoples.jpg , stacked-peaks.svg
+          filename: ''
           filters:
             brightness: 1.0
           size: cover
