@@ -3,9 +3,7 @@ title: Books reviewers review rating Analysis
 date: 2025-05-26
 external_link: https://troopl.com/fadodo/books-reviewers-review-rating-analysis
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Data Analysis, Book, Book reviews, dataViz, NLP, Python, Wordcloud
 ---
 
 # Project Summary: What Drives Book Review Ratings?
