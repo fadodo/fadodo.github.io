@@ -1,7 +1,7 @@
 ---
 title: Flood_mapper Quick Start Guide
 summary: This guide will walk you through setting up and using the flood_mapper package to perform rapid flood mapping using Google Earth Engine (GEE)
-date: 2025-07-22
+date: 2025-07-21
 type: docs
 math: false
 tags:
