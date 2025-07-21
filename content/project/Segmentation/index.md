@@ -3,9 +3,7 @@ title: Segmentation of Satellite Imagery using CNNs and SAM
 date: 2025-04-30
 external_link: https://troopl.com/fadodo/segmentation-of-satellite-imagery-using-cnns-and-sam
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Convolutional Neural Networks (CNNs), Deep Learning Frameworks, Geospatial Data Analysis, Google Colab, Image Segmentation Algorithms, Leafmap, Python Programming, Segment Anything Model (SAM)
 ---
 
 # Segmentation of Satellite Imagery using CNNs and SAM
