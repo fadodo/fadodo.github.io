@@ -10,7 +10,9 @@ image:
   caption: ''
   filename: ''
 ---
+
 [![flood_mapping](cover_image.png)](https://github.com/fadodo/flood_mapper)
+
 # Introduction
 
 This guide will walk you through setting up and using the flood_mapper package to perform rapid flood mapping using Google Earth Engine (GEE)
