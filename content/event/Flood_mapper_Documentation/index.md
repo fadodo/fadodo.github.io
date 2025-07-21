@@ -13,17 +13,17 @@ image:
 
 [![flood_mapping](cover_image.png)](https://github.com/fadodo/flood_mapper)
 
-# Introduction
+## Introduction
 
 This guide will walk you through setting up and using the flood_mapper package to perform rapid flood mapping using Google Earth Engine (GEE)
 
 **Note**: For the best experience, it's recommended to run this guide within a **VS Code environment** with the Python and Jupyter extensions installed. The images below are placeholders; you would replace them with actual screenshots from your setup.
 
-# Overview
+## Overview
 
 The `flood_mapper` package is a Python-based tool designed for rapid and flexible mapping of flooded areas using Google Earth Engine (GEE). It leverages pre- and post-event satellite imagery from Sentinel-1 (Synthetic Aperture Radar - SAR) and Sentinel-2 (optical) to detect flood extents. The package offers users the flexibility to choose their preferred detection method and handles data ingestion, preprocessing, flood detection, and export of results to Google Earth Engine Assets.
 
-# Features
+## Features
 
 * **Flexible Flood Detection:** Choose to perform flood detection using:
 
@@ -47,9 +47,9 @@ The `flood_mapper` package is a Python-based tool designed for rapid and flexibl
 
 * **Command-Line Interface:** Easy-to-use script for running flood mapping workflows.
 
-# Installation
+## Installation
 
-## 1. **Prerequisites**
+### 1. **Prerequisites**
 Before you begin, ensure you have the following installed:
 
 - **Python 3.9+**:  Recommended to use with Anaconda/Miniconda for environment management.
@@ -60,10 +60,10 @@ Before you begin, ensure you have the following installed:
 
 - **GEE Python API Authenticated**: You must have authenticated your GEE Python API.
 
-## 2. **Setup Your Environment** 
+### 2. **Setup Your Environment** 
 Follow these steps to set up your development environment and install the `flood_mapper` package.
 
-### **Step 2.1: Clone the Repository**
+#### **Step 2.1: Clone the Repository**
 First, clone the `flood_mapper` repository from GitHub to your local machine on your terminal:
 
 ```bash
@@ -73,7 +73,7 @@ cd flood_mapper      # Navigate into the cloned directory
 
 ```
 
-### **Step 2.2: Create and Activate a Conda Environment**
+#### **Step 2.2: Create and Activate a Conda Environment**
 It's best practice to create a dedicated Conda environment for `flood_mapper` to manage its dependencies.
 
 ```bash
@@ -83,7 +83,7 @@ conda activate flood_mapper  # activate the environnement
 
 ```
 
-### **Step 2.3: Install `flood_mapper` and Dependencies**
+#### **Step 2.3: Install `flood_mapper` and Dependencies**
 Install the `flood_mapper` package in "editable" mode, along with `jupyter`, `geemap`, `numpy`, `pandas` and `matplotlib`. The editable install (`-e .`) ensures that any changes you make to the package's source code are immediately reflected without needing to reinstall.
 
 ```bash
@@ -93,7 +93,7 @@ pip install jupyter geemap numpy matplotlib pandas
 
 ```
 
-### **Step 2.4: Authenticate Google Earth Engine**
+#### **Step 2.4: Authenticate Google Earth Engine**
 
 If you haven't already, authenticate your Google Earth Engine Python API. This will open a browser window for you to log in with your Google account and grant access.
 
@@ -103,7 +103,7 @@ earthengine authenticate
 
 ```
 
-### **Step 2.5: Install `ipykernel` for Jupyter**
+#### **Step 2.5: Install `ipykernel` for Jupyter**
 This step ensures that your Jupyter Notebook can use the newly created flood_mapper kernel.
 
 ```bash
@@ -112,11 +112,11 @@ python -m ipykernel install --user --name=flood_mapper --display-name "Python (f
 
 ```
 
-#  Running the Flood Mapping Notebook
+##  Running the Flood Mapping Notebook
 
 Now that your environment is set up, you can run the flood mapping process using the provided Jupyter Notebook.
 
-## **Step 1: Launch Jupyter Lab**
+### **Step 1: Launch Jupyter Lab**
 
 From your activated flood_mapper terminal, launch Jupyter Lab.
 
@@ -129,12 +129,12 @@ This will open Jupyter Lab in your web browser.
 
 ![jupyter_interface](kernel.png)
 
-## **Step 2: Open the Notebook and Select Kernel**
+### **Step 2: Open the Notebook and Select Kernel**
 
 In the Jupyter Lab interface, navigate to `run_flood_mapping.ipynb` and open it. Once opened, ensure you select the correct kernel: *Python (flood_mapper)*. You can usually find the kernel selector in the top-right corner of the notebook.
 
 
-## **Step 3: Configure Parameters**
+### **Step 3: Configure Parameters**
 
 Scroll to the "2. Parameter Definition" section in the notebook. Here, you can customize the flood event date, **Area of Interest (AOI)**, and detection method.
 
@@ -164,22 +164,22 @@ Otsu threshold calculation region whitin the region of interest
 ![AOI](AOI.png)
 
 
-## **Step 4: Run All Cells**
+### **Step 4: Run All Cells**
 
 Execute all cells in the notebook sequentially. You can do this by going to `Run` > `Run All` Cells in the Jupyter menu. The notebook will print progress updates in the output cells.
 
 ![output1](output1.png)
 
-# **Interpreting Results**
+## **Interpreting Results**
 
 After the notebook finishes execution, you will see various outputs.
 
-## **Step 1: Console Output**
+### **Step 1: Console Output**
 The notebook will print messages indicating data availability, processing steps, and calculated flood areas (in km²). Pay attention to any warnings, especially regarding image availability or pixel count consistency.
 
 ![output2](output2.png)
 
-## **Step 2: Interactive Map Visualization**
+### **Step 2: Interactive Map Visualization**
 The most exciting part! An interactive geemap map will be displayed directly within the notebook. This map will show:
 
 - **Main AOI (Blue Outline)**: Your defined Area of Interest.
@@ -202,20 +202,20 @@ You can toggle layers on/off and zoom in/out to explore the results.
 
 ![vizualization](visualization.png)
 
-## **Step 3: Exported Assets (Optional)**
+### **Step 3: Exported Assets (Optional)**
 
 If export_results was set to `True`, the notebook will initiate tasks to export the flood extent and duration images to your Google Earth Engine Assets. You can monitor the progress of these tasks in your GEE Code Editor's "Tasks" tab.
 
 
 
-# **Accuracy Considerations**
+## **Accuracy Considerations**
 Remember that the accuracy of the flooded area calculation can be influenced by several factors:
 
 - **Sentinel-2 (Optical) Data**: The primary limitation is **cloud cover**. Clouds and cloud shadows can obscure the ground, leading to underestimation of flooded areas or false positives. Clear-sky images are crucial.
 
 - **Sentinel-1 (SAR) Data**: While SAR penetrates clouds, the accuracy relies on the precise **Otsu threshold determination**. Factors like vegetation, urban areas, and varying water surface conditions can affect backscatter, making a universally optimal threshold challenging.
 
-# **Others image outputs**
+## **Others image outputs**
 
 - SAR imagery 
 
