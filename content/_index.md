@@ -134,13 +134,13 @@ sections:
     id: talks
     content:
       title: Outreach & Talks
-      text: 'COMING SOON ....'
+      text: ''
       filters:
         folders:
           - event
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     id: news
     content:
