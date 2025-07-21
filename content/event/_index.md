@@ -1,13 +1,24 @@
 ---
-title: Recent & Upcoming Talks
+title: Outreach and talks
 cms_exclude: true
-#url: talk
+summary: Outreach activities
+type: landing
 
-# View
-view: article-grid
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: ''
-  filename: ''
+sections:
+  - block: collection
+    id: talks
+    content:
+      title: Tutorials
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 2
 ---
