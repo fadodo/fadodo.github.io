@@ -1,6 +1,6 @@
 ---
-title: No Code academic CV website
-summary: "**This tutorial provides comprehensive, step-by-step instructions for creating an academic website in 1 day with Hugo Blox and deploying it with GitHub Pages**. It guides users through setting up a repository, local development and customising the content, including the CV section and site identity. It emphasises the automation of deployment using GitHub Actions, explaining how changes are built and published automatically. Key concepts such as Front Matter (metadata in Markdown files) and organising content within various folders (e.g. publications and talks) are explained alongside tips for troubleshooting common build or display issues. The tutorial uses a combination of step-by-step instructions, code examples and visual diagrams to facilitate understanding."
+title: Build Your Academic Website with Hugo Blox on GitHub Pages
+summary: A step-by-step guide to creating your own personal academic website without having to write any code using GitHub Pages and the Hugo framework.
 date: 2025-07-21
 type: docs
 math: false
@@ -13,10 +13,9 @@ image:
 
 [![siteweb_page](mysiteweb.png)](https://fadodo.github.io)
 
-# 🚀 Build Your Academic Website with [Hugo Blox](https://docs.hugoblox.com/) on [GitHub Pages](https://pages.github.com/)  
+# 🚀 Create a professional, customizable academic website using [Hugo Blox](https://docs.hugoblox.com/) and deploy it for free using [GitHub Pages](https://pages.github.com/) — all automated via GitHub Actions.
 
-A step-by-step guide to creating your own personal academic website without having to write any code using GitHub Pages and the Hugo framework.
-Create a professional, customizable academic website using Hugo Blox and deploy it for free using GitHub Pages — all automated via GitHub Actions.
+"**This tutorial provides comprehensive, step-by-step instructions for creating an academic website in 1 day with Hugo Blox and deploying it with GitHub Pages**. It guides users through setting up a repository, local development and customising the content, including the CV section and site identity. It emphasises the automation of deployment using GitHub Actions, explaining how changes are built and published automatically. Key concepts such as Front Matter (metadata in Markdown files) and organising content within various folders (e.g. publications and talks) are explained alongside tips for troubleshooting common build or display issues. The tutorial uses a combination of step-by-step instructions, code examples and visual diagrams to facilitate understanding."
 
 This guide is tailored for:
 
@@ -205,7 +204,7 @@ active: true
     ```   
 ---
 
-**Next Steps**
+## **Next Steps**
 
 -  Add papers to `content/publications/`
 
@@ -219,6 +218,6 @@ active: true
 
 ---
 
-**Need Help?**
+  ## **Need Help?**
 
 Feel free to reach out or ask questions if any step is unclear!
