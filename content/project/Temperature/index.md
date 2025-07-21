@@ -3,9 +3,7 @@ title: INTERACTIVE WORLD MONTHLY AVERAGE TEMPERATURE LOOKER STUDIO DASHBOARD
 date: 2025-03-26
 external_link: https://lookerstudio.google.com/reporting/6df4d148-e15f-4f14-a09b-1b2749857956/page/p_y32j23ywpd?s=n_b6CX8Li0w
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Surface Temperature, Data visualization, Looker Studio, Data Analysis, Dashboard, Kaggle
 ---
 
 Using Looker Studio visualization tools, I created the following interactive world monthly average temperature dashboard which shows the spatial distribution of interannual average and standard deviation of surface temperature. The dataset is from Kaggle over the period 1940 to 2024
