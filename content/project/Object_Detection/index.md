@@ -3,9 +3,7 @@ title: Object detection in satellite imagery using CNN and SAM algorithms
 date: 2025-05-02
 external_link: https://troopl.com/fadodo/object-detection-in-satellite-imagery-using-cnn-and-sam-algorithms
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Convolutional Neural Networks (CNNs), Geospatial Data Processing, leafmap Library, Python, Satellite Imagery Analysis, Segment Anything Model (SAM)
 ---
 
 This Google Colab notebook demonstrates an automated approach for detecting individual trees in satellite imagery. It leverages the power of a Convolutional Neural Network (CNN) for feature extraction, enhanced by the precise segmentation capabilities of the Segment Anything Model (SAM). By integrating these advanced deep learning techniques with the geospatial processing capabilities of the leafmap library, this project enables users to accurately identify and locate trees within user-defined regions of interest.
