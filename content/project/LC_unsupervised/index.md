@@ -3,12 +3,10 @@ title: Unsupervised sentinel-2 imagery Classification
 date: 2025-05-03
 external_link: https://troopl.com/fadodo/unsupervised-sentinel2-imagery-classification
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - geemap, geospatial data science, Google Colaboratory (Colab), Google Earth Engine (GEE), Python, Sentinel-2, Unsupervised algorithms,X-Means, LVQ algorithms
 ---
 
-# Unsupervised sentinel2 imagery Classification
+# Unsupervised sentinel-2 imagery Classification
 Unsupervised Sentinel 2 imagery land cover classification using GEE and geemap package
 
 Two clustering methods have been tested: 
