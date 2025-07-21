@@ -3,9 +3,7 @@ title: Bank customer Churn Analysis
 date: 2025-04-22
 external_link: https://troopl.com/fadodo/ml_bank_customer_churn
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - data analysis, bank, customer churn, Machine Learning, Python, Scikit-Learn
 ---
 
 # Predicting customer churn in a bank thank to Machine Learning
