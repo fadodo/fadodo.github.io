@@ -42,7 +42,7 @@ profiles:
   - icon: academicons/coursera
     url: https://troopl.com/fadodo
 
-**interests**:
+interests:
   - 🐍 Python programming
   - 🛰️ Earth Observation  
   - 🌏 Remote sensing
@@ -50,7 +50,7 @@ profiles:
   - 🌊 Environmental/Water Engineering
 
 
-**education**:
+education:
   - area: Certification - AI and Big Data Developer
     institution: Le Wagon
     date_start: 2025-01-20
