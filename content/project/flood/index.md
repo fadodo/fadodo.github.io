@@ -4,9 +4,7 @@ date: 2025-05-30
 external_link: https://troopl.com/fadodo/mapping-the-invisible-flood-impact-analysis-over-lom-may-2024
 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Flood mapping, GEE, geemap, Python, Remote Sensing Data, SAR
 ---
 In the early hours of May 26th, 2024, residents across Lomé awoke to a city transformed. Streets once bustling with life had turned into rushing canals. Markets stood silent, their stalls submerged. For thousands, homes became islands—or worse, were swept away entirely. The city had been overwhelmed by relentless rainfall, causing widespread flooding and plunging vulnerable communities into chaos.
 
