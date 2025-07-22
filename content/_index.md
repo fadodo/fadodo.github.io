@@ -76,6 +76,7 @@ sections:
     design:
       # Choose a listing view
       view: article-grid
+      columns: 3
   - block: features
     content:
       title: Skills
