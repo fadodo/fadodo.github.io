@@ -1,7 +1,7 @@
 ---
 title: INTERACTIVE WORLD MONTHLY AVERAGE TEMPERATURE LOOKER STUDIO DASHBOARD
 date: 2025-03-26
-external_link: https://lookerstudio.google.com/reporting/6df4d148-e15f-4f14-a09b-1b2749857956/page/p_y32j23ywpd?s=n_b6CX8Li0w
+external_link: https://lookerstudio.google.com/reporting/6df4d148-e15f-4f14-a09b-1b2749857956
 tags:
   - Surface Temperature, Data visualization, Looker Studio, Data Analysis, Dashboard, Kaggle
 ---
