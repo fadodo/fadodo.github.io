@@ -1,7 +1,7 @@
 ---
 title: Object detection in satellite imagery using CNN and SAM algorithms
 date: 2025-05-02
-external_link: https://troopl.com/fadodo/object-detection-in-satellite-imagery-using-cnn-and-sam-algorithms
+external_link: https://github.com/fadodo/Object-Detection
 tags:
   - Convolutional Neural Networks (CNNs), Geospatial Data Processing, leafmap Library, Python, Satellite Imagery Analysis, Segment Anything Model (SAM)
 ---
