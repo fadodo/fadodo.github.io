@@ -108,6 +108,10 @@ sections:
           description: ''
           #percent: 80
           icon: cpu-chip
+    design:
+      css_class: dark
+      background:
+        color: #646660
   - block: collection
     id: papers
     content:
