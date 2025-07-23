@@ -1,7 +1,7 @@
 ---
 title: Supervised Landcover Classification of Sentinel2 imagery over Corse region
 date: 2025-05-10
-external_link: https://troopl.com/fadodo/supervised-landcover-classification-of-sentinel2-imagery-over-corse-region
+external_link: https://github.com/fadodo/Supervised_landcover_classification
 tags: 
   - Google Colab, Google Earth Engine, Python, Random Forest, Remote sensing, Sentinel-2 imagery, Supervised classification algorithm, Support Vector Machine(SVM)
 ---
