@@ -9,6 +9,10 @@ cascade:
       kind: page
     params:
       show_breadcrumb: true
+      show_related: true
+      reading_time: true
+      commentable: true
+      share: true
 
 sections:
   - block: collection
