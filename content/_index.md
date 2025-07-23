@@ -45,7 +45,8 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: true
+          text_color_light: true
   - block: collection
     id: projects
     content:
