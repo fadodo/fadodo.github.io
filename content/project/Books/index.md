@@ -1,7 +1,7 @@
 ---
 title: Books reviewers review rating Analysis
 date: 2025-05-26
-external_link: https://troopl.com/fadodo/books-reviewers-review-rating-analysis
+external_link: https://github.com/fadodo/Books_reviewers_review_Analysis
 tags:
   - Data Analysis, Book, Book reviews, dataViz, NLP, Python, Wordcloud
 ---
