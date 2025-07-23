@@ -10,10 +10,9 @@ image:
   caption: ''
   filename: ''
 ---
-
 [![flood_mapping](cover_image.png)](https://github.com/fadodo/flood_mapper)
 
-# This guide will walk you through setting up and using the flood_mapper package to perform rapid flood mapping using Google Earth Engine (GEE)
+## This guide will walk you through setting up and using the flood_mapper package to perform rapid flood mapping using Google Earth Engine (GEE)
 
 **Note**: For the best experience, it's recommended to run this guide within a **VS Code environment** with the Python and Jupyter extensions installed. The images below are placeholders; you would replace them with actual screenshots from your setup.
 
