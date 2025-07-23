@@ -1,7 +1,7 @@
 ---
 title: Bank customer Churn Analysis
 date: 2025-04-22
-external_link: https://troopl.com/fadodo/ml_bank_customer_churn
+external_link: https://github.com/fadodo/ML_Bank_customer_Churn
 tags:
   - data analysis, bank, customer churn, Machine Learning, Python, Scikit-Learn
 ---
