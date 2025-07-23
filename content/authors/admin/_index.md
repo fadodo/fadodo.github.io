@@ -194,11 +194,11 @@ skills:
 
 languages:
   - name: French
-    #percent: 100
+    percent: 100
   - name: English
-    #percent: 100
+    percent: 100
   - name: Ewe
-    #percent: 100
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
