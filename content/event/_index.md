@@ -13,6 +13,9 @@ cascade:
       reading_time: true
       commentable: true
       share: true
+      header:
+        navbar:
+          enable: false
 
 sections:
   - block: collection
