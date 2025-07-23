@@ -15,7 +15,7 @@ cascade:
       share: true
       header:
         navbar:
-          enable: false
+          enable: true
 
 sections:
   - block: collection
