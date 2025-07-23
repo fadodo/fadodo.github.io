@@ -1,7 +1,7 @@
 ---
 title: Unsupervised sentinel-2 imagery Classification
 date: 2025-05-03
-external_link: https://troopl.com/fadodo/unsupervised-sentinel2-imagery-classification
+external_link: https://github.com/fadodo/unsupervised_sentinel2__imagery_classification
 tags:
   - geemap, geospatial data science, Google Colaboratory (Colab), Google Earth Engine (GEE), Python, Sentinel-2, Unsupervised algorithms,X-Means, LVQ algorithms
 ---
