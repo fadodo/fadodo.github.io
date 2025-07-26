@@ -111,7 +111,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: #0000ff80
+        color: black
   - block: collection
     id: papers
     content:
