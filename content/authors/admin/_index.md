@@ -97,9 +97,7 @@ work:
       - Developed a coastal flooding Early Warning System for West Africa:
         - Analyzed historical and hindcast ocean parameters to establish a robust threshold for system activation.
         - The system is currently undergoing calibration and validation to ensure accuracy and reliability.
-        - Explore the solution I am developing at [safecoast]("safecoast.netlify.app")
-
-safecoast.netlify.app.
+        - Explore the solution I am developing at [safecoast](https://safecoast.netlify.app)
   - position: Research Engineer
     company_name: Hydro matters
     company_url: 'https://www.hydro-matters.fr/'
