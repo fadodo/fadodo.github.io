@@ -87,15 +87,19 @@ education:
     summary: |
      
 work:
-  - position: Coastal Flooding Events Database
+  - position: Research Engineer
     company_name: Startup Research Project
     company_url: 'https://fadodo.github.io'
     company_logo: ''
     date_start: 2024-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      -Built a comprehensive database of marine submersion (coastal flooding) events based on extreme total water level hindcasts.
+      - Developed a coastal flooding Early Warning System for West Africa:
+        - Analyzed historical and hindcast ocean parameters to establish a robust threshold for system activation.
+        - The system is currently undergoing calibration and validation to ensure accuracy and reliability.
+        - Explore the solution I am developing at https://safecoast.netlify.app 
+
+safecoast.netlify.app.
   - position: Research Engineer
     company_name: Hydro matters
     company_url: 'https://www.hydro-matters.fr/'
@@ -130,8 +134,10 @@ work:
     date_start: 2015-10-01
     date_end: 2018-10-30
     summary: |
-     - Conducted research on the physics of altimeter and radiometer sensors over the Antarctic ice sheet, contributing to improved climate models
-     - Developed a machine learning algorithm to classify and invert snow surface properties from satellite imagery, improving accuracy by 15% 
+      - Remote Sensing of Antarctic Ice Sheet Dynamics: Analyzed multi-frequency radar altimetry and radiometry data from ENVISAT and SARAL/AltiKa satellites to study the seasonal dynamics of the Antarctic ice sheet's near-surface properties.
+      - Electromagnetic Modeling and Analysis: Conducted sensitivity tests with an electromagnetic model to identify how different radar frequency bands (S, Ku, and Ka) respond to varying snowpack properties such as density, roughness, and temperature.
+      - Key Findings on Surface Properties: Demonstrated a significant influence of surface roughness on Ka-band brightness temperatures, a factor often previously neglected in modeling studies. The research highlighted the importance of multi-frequency altimetry and the potential of the S-band signal for studying seasonal surface roughness variability.
+      - Algorithm Development: Provided new insights for developing robust algorithms to correct for radar wave penetration errors in dry snow, which improves the accuracy of surface elevation and ice-sheet volume trend estimations 
   - position: Information Technology and Management Officer
     company_name: Mediterranean Shipping Company (MSC)
     company_url: 'https://www.msc.com/fr/local-information/africa/togo'
