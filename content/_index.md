@@ -28,7 +28,7 @@ sections:
           filters:
             brightness: 1.0
   # ------------------------------------------------------------------
-  # ⭐ NOUVEAU BLOC "MES SERVICES" INSÉRÉ ICI (avant resume-biography-3) ⭐
+  # ⭐ NOUVEAU BLOC "MES SERVICES" ⭐
   # ------------------------------------------------------------------
   - block: features
     content:
@@ -38,24 +38,27 @@ sections:
       items:
         - name: Project Management
           description: Coordination and management of scientific and technical projects to ensure their success.
-          icon: building-office2
+          icon: briefcase
         - name: Scientific Communication
           description: Communication activities to make science accessible and understandable.
           icon: megaphone
         - name: Technical Writing
           description: Technical writing and the valorization of scientific results and solutions.
-          icon: document-text
+          icon: clipboard-document-list
         - name: Training and Awareness
           description: Training and awareness sessions on data science and analysis tools.
-          icon: chart-bar
+          icon: academic-cap
         - name: Research and Development
           description: R&D of tools and solutions to support decision-making.
           icon: beaker
         - name: Prediction Platform
           description: Proposal for an early warning and prediction platform for coastal overflow risks in West Africa.
-          icon: cloud
+          icon: bell-alert
     design:
       columns: 3
+  # ------------------------------------------------------------------
+  # ⭐ BLOC "ABOUT ME"⭐
+  # ------------------------------------------------------------------
   - block: resume-biography-3
     content:
       username: admin
@@ -76,6 +79,9 @@ sections:
           position: center
           parallax: true
           text_color_light: true
+  # ------------------------------------------------------------------
+  # ⭐ BLOC "PROJETS" ⭐
+  # ------------------------------------------------------------------
   - block: collection
     id: projects
     content:
@@ -107,6 +113,9 @@ sections:
       # Choose a listing view
       view: article-grid
       columns: 3
+  # ------------------------------------------------------------------
+  # ⭐ BLOC "COMPETENCES"  ⭐
+  # ------------------------------------------------------------------
   - block: features
     content:
       title: Skills
@@ -124,23 +133,26 @@ sections:
         - name: Time-series analysis
           description: ''
           #percent: 80
-          icon: chart-bar 
+          icon: presentation-chart-bar 
         - name: Data Analytics
           description: ''
           #percent: 100
-          icon: document-chart-bar
+          icon: chart-pie
         - name: SQL
           description: ''
           #percent: 40
-          icon: circle-stack
+          icon: table-cells
         - name: Machine Learning
           description: ''
           #percent: 80
-          icon: cpu-chip
+          icon: computer-desktop
     design:
       css_class: dark
       background:
         color: black
+  # ------------------------------------------------------------------
+  # ⭐ BLOC "PUBLICATIONS" ⭐
+  # ------------------------------------------------------------------
   - block: collection
     id: papers
     content:
@@ -165,6 +177,9 @@ sections:
     design:
       view: citation
       columns: 2
+  # ------------------------------------------------------------------
+  # ⭐ BLOC "VULGARISATION ET PRESENTATION"  ⭐
+  # ------------------------------------------------------------------
   - block: collection
     id: talks
     content:
@@ -176,6 +191,9 @@ sections:
     design:
       view: article-grid
       columns: 2
+  # ------------------------------------------------------------------
+  # ⭐ BLOC "EVENEMENTS"  ⭐
+  # ------------------------------------------------------------------
   - block: collection
     id: news
     content:
