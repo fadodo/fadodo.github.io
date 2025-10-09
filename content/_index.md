@@ -32,27 +32,27 @@ sections:
   # ------------------------------------------------------------------
   - block: features
     content:
-      title: Mes Services
+      title: My Services
       subtitle: |
-        Je mets mon expertise technique et ma vision stratégique au service de vos projets.
+        I put my technical expertise and strategic vision at the service of your projects.
       items:
-        - name: Gestion de Projet
-          description: Coordination et gestion de projets scientifiques et techniques pour assurer leur succès.
-          icon: briefcase
-        - name: Communication Scientifique
-          description: Activités de communication pour rendre la science accessible et compréhensible.
+        - name: Project Management
+          description: Coordination and management of scientific and technical projects to ensure their success.
+          icon: building-office2
+        - name: Scientific Communication
+          description: Communication activities to make science accessible and understandable.
           icon: megaphone
-        - name: Rédaction Technique
-          description: Rédaction technique et valorisation des résultats et solutions scientifiques.
+        - name: Technical Writing
+          description: Technical writing and the valorization of scientific results and solutions.
           icon: document-text
-        - name: Formation et Sensibilisation
-          description: Formation et sensibilisation à la science de la donnée et aux outils d'analyse.
+        - name: Training and Awareness
+          description: Training and awareness sessions on data science and analysis tools.
           icon: chart-bar
-        - name: Recherche et Développement
-          description: R&D d'outils et solutions pour l'aide à la prise de décision.
+        - name: Research and Development
+          description: R&D of tools and solutions to support decision-making.
           icon: beaker
-        - name: Plateforme de Prédiction
-          description: Proposition d'une plateforme de prédiction et d'alerte précoce pour les risques de surcotes en Afrique de l'Ouest.
+        - name: Prediction Platform
+          description: Proposal for an early warning and prediction platform for coastal overflow risks in West Africa.
           icon: cloud
     design:
       columns: 3
