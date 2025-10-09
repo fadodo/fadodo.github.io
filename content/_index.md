@@ -31,8 +31,9 @@ sections:
   # ⭐ NOUVEAU BLOC "MES SERVICES" ⭐
   # ------------------------------------------------------------------
   - block: features
+    id: services
     content:
-      title: My Services
+      title: Services
       subtitle: |
         I put my technical expertise and strategic vision at the service of your projects.
       items:
