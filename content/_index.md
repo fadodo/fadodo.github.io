@@ -130,7 +130,7 @@ sections:
         - name: Earth Observation
           description: ''
           #percent: 80
-          icon: globe-alt
+          icon: globe-europe-africa
         - name: Time-series analysis
           description: ''
           #percent: 80
