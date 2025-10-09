@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10 
   - name: Services
-    url: /#service
+    url: /#services
     weight: 11 
   - name: Projects
     url: projects/
