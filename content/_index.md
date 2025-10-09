@@ -31,7 +31,7 @@ sections:
   # ⭐ NOUVEAU BLOC "MES SERVICES" ⭐
   # ------------------------------------------------------------------
   - block: features
-    id: services
+    id: service
     content:
       title: Services
       subtitle: |
