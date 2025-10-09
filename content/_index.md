@@ -39,7 +39,7 @@ sections:
         - name: Gestion de Projet
           description: Coordination et gestion de projets scientifiques et techniques pour assurer leur succès.
           icon: cogs
-
+          icon_pack: fas
         - name: Communication Scientifique
           description: Activités de communication pour rendre la science accessible et compréhensible.
           icon: bullhorn
