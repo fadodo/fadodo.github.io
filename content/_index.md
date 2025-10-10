@@ -31,7 +31,6 @@ sections:
   # ⭐ NOUVEAU BLOC "MES SERVICES" ⭐
   # ------------------------------------------------------------------
   - block: features
-    id: services
     content:
       title: Services
       subtitle: |
@@ -81,7 +80,7 @@ sections:
           parallax: true
           text_color_light: true
   # ------------------------------------------------------------------
-  # ⭐ BLOC "PROJETS" ⭐
+  # ⭐ BLOC "MES PROJETS" ⭐
   # ------------------------------------------------------------------
   - block: collection
     id: projects
@@ -115,7 +114,7 @@ sections:
       view: article-grid
       columns: 3
   # ------------------------------------------------------------------
-  # ⭐ BLOC "COMPETENCES"  ⭐
+  # ⭐ BLOC "MES COMPETENCES"  ⭐
   # ------------------------------------------------------------------
   - block: features
     content:
