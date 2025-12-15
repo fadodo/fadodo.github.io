@@ -40,12 +40,12 @@ header:
       # Add alt text for accessibility (highly recommended)
       alt_text: "ValDEO - Fifi ADODO"
       # Specify a height for the logo image (e.g., in pixels)
-      height: 45 # Adjust this value as needed
+      height: 64 # Adjust this value as needed
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} ADODO. This work is licensed under {license}'
+    notice: '© {year} ValDEO. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
