@@ -43,6 +43,7 @@ profiles:
     url: https://troopl.com/fadodo
 
 interests:
+  - ✍️ Project Management
   - 🐍 Python programming
   - 🛰️ Earth Observation  
   - 🌏 Remote sensing
