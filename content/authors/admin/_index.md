@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role:R&D and Earth Observation Consultant 🌍 | PhD in Oceanography | Project Management & Technical Writing 
+role: R&D and Earth Observation Consultant 🌍 | PhD in Oceanography | Project Management & Technical Writing 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
