@@ -37,11 +37,11 @@ header:
     logo:
       # 1. Change 'text' to 'filename'
       # 2. Specify the file path (relative to the 'assets/media/' folder)
-      filename: "valdeo.png" 
+      filename: "logo-for-valdeo.png" 
       # Optional: Add alt text for accessibility (highly recommended)
       alt_text: "ValDEO - Fifi ADODO Logo"
       # Optional: Specify a height for the logo image (e.g., in pixels)
-      height: 25 # Adjust this value as needed
+      height: 35 # Adjust this value as needed
       #text: "ValDEO - Fifi ADODO"
 
 # Site footer
