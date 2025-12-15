@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Earth Observation Data Specialist || Data analyst || Project Management
+role: R&D and Earth Observation Consultant 🌍 | PhD in Oceanography | Project Management & Technical Writing | Data Analyst | Supporting Startups, Labs, and NGOs in leveraging their climate data and projects.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
+  - name: ValDEO
     url: 
 
 # Social network links
