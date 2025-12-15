@@ -36,11 +36,11 @@ header:
     show_theme_chooser: true
     logo:
       # Specify the file path (relative to the 'assets/media/' folder)
-      filename: "logo-for-valdeo.png" 
+      filename: "valdeo.png" 
       # Add alt text for accessibility (highly recommended)
       alt_text: "ValDEO - Fifi ADODO"
       # Specify a height for the logo image (e.g., in pixels)
-      height: 64 # Adjust this value as needed
+      height: 50 # Adjust this value as needed
 
 # Site footer
 footer:
