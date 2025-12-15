@@ -35,14 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      # 1. Change 'text' to 'filename'
-      # 2. Specify the file path (relative to the 'assets/media/' folder)
+      # Specify the file path (relative to the 'assets/media/' folder)
       filename: "logo-for-valdeo.png" 
-      # Optional: Add alt text for accessibility (highly recommended)
-      alt_text: "ValDEO - Fifi ADODO Logo"
-      # Optional: Specify a height for the logo image (e.g., in pixels)
-      height: 35 # Adjust this value as needed
-      #text: "ValDEO - Fifi ADODO"
+      # Add alt text for accessibility (highly recommended)
+      alt_text: "ValDEO - Fifi ADODO"
+      # Specify a height for the logo image (e.g., in pixels)
+      height: 45 # Adjust this value as needed
 
 # Site footer
 footer:
