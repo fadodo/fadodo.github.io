@@ -35,8 +35,8 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      image: "assets/media/valdeo.png"
-      height: 40
+      image: "valdeo.png"
+      height: 36
       text: "ValDEO - Fifi ADODO"
 
 # Site footer
