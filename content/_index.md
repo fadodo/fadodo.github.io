@@ -13,7 +13,6 @@ sections:
     content:
       title: Use Earth observation data as a tool to inform decision-making
       text: |-
-        #**Flood Rapid Mapping Tools** 
     design:
       spacing:
         padding: [0, 0, 0, 0]
