@@ -11,8 +11,8 @@ design:
 sections:
   - block: hero
     content:
-      title: 'Use Earth observation data as a tool to inform decision-making'
-      text: |-
+      title: ''
+      text: |'Expert consulting in scientific and technical project management, R&D, geospatial data analysis, and Earth observation — from training and technical writing to scientific communication and decision-support solutions.'
     design:
       spacing:
         padding: [0, 0, 0, 0]
