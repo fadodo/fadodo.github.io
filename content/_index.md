@@ -11,7 +11,7 @@ design:
 sections:
   - block: hero
     content:
-      title:'Use Earth observation data as a tool to inform decision-making'
+      title: Use Earth observation data as a tool to inform decision-making
       text:|-
     design:
       spacing:
