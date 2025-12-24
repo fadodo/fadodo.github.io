@@ -17,7 +17,8 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-      css_class: ""
+      css_class: "min-height: 0; height: auto;"
+      view: 1 # 1 is usually the smallest/automatic setting
       background:
         color: black
         text_color_light: true
