@@ -12,7 +12,8 @@ sections:
   - block: hero
     content:
       title: ""
-      text:"Expert consulting in scientific and technical project management, R&D, geospatial data analysis, and Earth observation from training and technical writing to scientific communication and decision-support solutions."
+      text:|
+    "Expert consulting in scientific and technical project management, R&D, geospatial data analysis, and Earth observation from training and technical writing to scientific communication and decision-support solutions."
     design:
       spacing:
         padding: [0, 0, 0, 0]
